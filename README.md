@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FfnqJsCLpT_jI7kMgYy2Jh7r3lEdVLYt/view?usp=sharing](https://drive.google.com/file/d/1FfnqJsCLpT_jI7kMgYy2Jh7r3lEdVLYt/view?usp=sharing)
 
-- ⚡ Fun fact **🐙 Fun Fact: GitHub's mascot is an octocat, a fun blend of an octopus and a cat!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
